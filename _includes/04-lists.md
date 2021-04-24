@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# My fav sites
+*Github
+*W3schools
+*replit
