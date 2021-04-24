@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My fav codes
+* JAVA
+* PYTHON
+* HTML
+
+
+
+*“Everybody should learn to program a computer, because it teaches you how to think.”*
+                                                        
+   -_**Steve Jobs**_ 
