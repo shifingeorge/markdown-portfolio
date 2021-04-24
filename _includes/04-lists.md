@@ -1,4 +1,4 @@
 # My fav sites 🤗
-1. Item Github
-2. Item W3schools
-3. Item Replit
+1. Github
+2. W3schools
+3. Replit
